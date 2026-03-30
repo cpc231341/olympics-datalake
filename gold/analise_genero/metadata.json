@@ -1,0 +1,43 @@
+{
+  "columns": [
+    {
+      "name": "edition",
+      "type": "string",
+      "description": "Nome da edição dos Jogos Olímpicos (ex: '2024 Summer Olympics')"
+    },
+    {
+      "name": "country_noc",
+      "type": "string",
+      "description": "Código do país (NOC - National Olympic Committee)"
+    },
+    {
+      "name": "male_athletes",
+      "type": "integer",
+      "description": "Quantidade de atletas do sexo masculino"
+    },
+    {
+      "name": "female_athletes",
+      "type": "integer",
+      "description": "Quantidade de atletas do sexo feminino"
+    },
+    {
+      "name": "unknown_athletes",
+      "type": "integer",
+      "description": "Quantidade de atletas com sexo não identificado"
+    },
+    {
+      "name": "other_athletes",
+      "type": "integer",
+      "description": "Quantidade de atletas de outro sexo (casos especiais ou não binários)"
+    },
+    {
+      "name": "total_athletes",
+      "type": "integer",
+      "description": "Total de atletas (soma de todas as categorias de sexo)"
+    }
+  ],
+  "delimiter": "\\t",
+  "encoding": "utf-8",
+  "row_count": "variável (um por país/edição)",
+  "description": "Tabela de atletas por país, edição olímpica e sexo, incluindo totais por categoria."
+}

@@ -1,0 +1,38 @@
+{
+  "columns": [
+    {
+      "name": "country_noc",
+      "type": "string",
+      "description": "Código do país (NOC - National Olympic Committee)"
+    },
+    {
+      "name": "Tipo",
+      "type": "string",
+      "description": "Tipo de olimpíada: Verão, Inverno ou Geral"
+    },
+    {
+      "name": "gold",
+      "type": "integer",
+      "description": "Quantidade de medalhas de ouro"
+    },
+    {
+      "name": "silver",
+      "type": "integer",
+      "description": "Quantidade de medalhas de prata"
+    },
+    {
+      "name": "bronze",
+      "type": "integer",
+      "description": "Quantidade de medalhas de bronze"
+    },
+    {
+      "name": "total",
+      "type": "integer",
+      "description": "Total de medalhas (ouro + prata + bronze)"
+    }
+  ],
+  "delimiter": "\\t",
+  "encoding": "utf-8",
+  "row_count": "variável (um por país/tipo)",
+  "description": "Tabela de medalhas olímpicas por país e tipo de olimpíada (Verão, Inverno, Geral) com totais por categoria."
+}
