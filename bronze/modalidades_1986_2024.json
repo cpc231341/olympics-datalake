@@ -1,0 +1,15 @@
+{
+  "nome_dataset": "modalidades_1986_2024",
+  "descricao": "Modalidades esportivas e quantidade de eventos por edição dos Jogos Olímpicos.",
+  "fonte": "Base dos Dados + Kaggle (Paris 2024)",
+  "formato": "csv",
+  "camada": "bronze",
+  "data_criacao": "2026-03-30",
+  "campos": {
+    "edition": "Ano e nome da edição dos Jogos Olímpicos",
+    "sport": "Nome da modalidade esportiva",
+    "event": "Nome do evento esportivo",
+    "num_events": "Quantidade de eventos por modalidade na edição"
+  },
+  "observacoes": "Eventos únicos por modalidade, removendo duplicações de atletas."
+}

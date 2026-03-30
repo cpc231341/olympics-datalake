@@ -1,0 +1,16 @@
+{
+  "nome_dataset": "atletas_por_sexo",
+  "descricao": "Distribuição de atletas por sexo, país e edição dos Jogos Olímpicos.",
+  "fonte": "Base dos Dados + Kaggle (Paris 2024)",
+  "formato": "csv",
+  "camada": "bronze",
+  "data_criacao": "2026-03-30",
+  "campos": {
+    "edition": "Ano e nome da edição dos Jogos Olímpicos",
+    "country_noc": "Sigla do país (NOC)",
+    "male_athletes": "Quantidade de atletas do sexo masculino",
+    "female_athletes": "Quantidade de atletas do sexo feminino",
+    "total_athletes": "Total de atletas"
+  },
+  "observacoes": "Contagem baseada em atletas únicos (athlete_id) para evitar duplicidade."
+}

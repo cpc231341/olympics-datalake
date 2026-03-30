@@ -1,0 +1,17 @@
+{
+  "nome_dataset": "medalhas_1986_2024",
+  "descricao": "Resumo de medalhas por país e edição dos Jogos Olímpicos.",
+  "fonte": "Base dos Dados + Kaggle (Paris 2024)",
+  "formato": "csv",
+  "camada": "bronze",
+  "data_criacao": "2026-03-30",
+  "campos": {
+    "edition": "Ano e nome da edição dos Jogos Olímpicos",
+    "country_noc": "Sigla do país (NOC)",
+    "gold": "Quantidade de medalhas de ouro",
+    "silver": "Quantidade de medalhas de prata",
+    "bronze": "Quantidade de medalhas de bronze",
+    "total": "Total de medalhas"
+  },
+  "observacoes": "Dados agregados a partir de registros individuais de atletas."
+}

@@ -1,0 +1,18 @@
+{
+  "nome_dataset": "olympics_paris2024",
+  "descricao": "Dados dos medalhistas dos Jogos Olímpicos de Paris 2024 com informações de atletas, eventos e medalhas.",
+  "fonte": "Kaggle",
+  "url_fonte": "https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data",
+  "formato": "csv",
+  "periodo": "2024",
+  "data_coleta": "2026-03-29",
+  "campos_principais": [
+    "medal_type",
+    "medal_code",
+    "gender",
+    "country_code",
+    "discipline"
+  ],
+  "granularidade": "nível atleta/evento",
+  "observacoes": "Dataset bruto contendo medalhistas de Paris 2024. Utilizado para geração do quadro de medalhas."
+}

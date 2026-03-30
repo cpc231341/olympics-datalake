@@ -1,0 +1,19 @@
+{
+  "nome_dataset": "olympics_historico",
+  "descricao": "Dados históricos das Olimpíadas (1896–2022) contendo informações de atletas, países, esportes e medalhas.",
+  "fonte": "Base dos Dados",
+  "url_fonte": "https://basedosdados.org/dataset/62f8cb83-ac37-48be-874b-b94dd92d3e2b",
+  "formato": "csv",
+  "periodo": "1896-2022",
+  "data_coleta": "2026-03-29",
+  "campos_principais": [
+    "edition",
+    "country_noc",
+    "sport",
+    "event",
+    "medal",
+    "is_team_sport"
+  ],
+  "granularidade": "nível atleta/evento",
+  "observacoes": "Dataset bruto contendo registros históricos completos das Olimpíadas."
+}

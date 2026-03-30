@@ -1,0 +1,26 @@
+{
+  "type": "object",
+  "properties": {
+    "nome_dataset": { "type": "string" },
+    "descricao": { "type": "string" },
+    "fonte": { "type": "string" },
+    "url_fonte": { "type": "string" },
+    "formato": { "type": "string" },
+    "periodo": { "type": "string" },
+    "data_coleta": { "type": "string", "format": "date" },
+    "campos_principais": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "granularidade": { "type": "string" },
+    "observacoes": { "type": "string" }
+  },
+  "required": [
+    "nome_dataset",
+    "descricao",
+    "fonte",
+    "formato",
+    "periodo",
+    "campos_principais"
+  ]
+}
