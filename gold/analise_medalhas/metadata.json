@@ -1,38 +1,19 @@
 {
-  "columns": [
-    {
-      "name": "country_noc",
-      "type": "string",
-      "description": "Código do país (NOC - National Olympic Committee)"
-    },
-    {
-      "name": "Tipo",
-      "type": "string",
-      "description": "Tipo de olimpíada: Verão, Inverno ou Geral"
-    },
-    {
-      "name": "gold",
-      "type": "integer",
-      "description": "Quantidade de medalhas de ouro"
-    },
-    {
-      "name": "silver",
-      "type": "integer",
-      "description": "Quantidade de medalhas de prata"
-    },
-    {
-      "name": "bronze",
-      "type": "integer",
-      "description": "Quantidade de medalhas de bronze"
-    },
-    {
-      "name": "total",
-      "type": "integer",
-      "description": "Total de medalhas (ouro + prata + bronze)"
-    }
+  "nome_dataset": "medalhas_summary_1896_2024.csv",
+  "descricao": "Tabela de medalhas olímpicas por país e tipo de olimpíada (Verão, Inverno, Geral) com totais por categoria.",
+  "fonte": "bronze/medalhas_1896_2024.csv",
+  "url_fonte": "",
+  "formato": "csv",
+  "periodo": "1896-2024",
+  "data_coleta": "2026-03-30",
+  "campos_principais": [
+    "country_noc",
+    "Tipo",
+    "gold",
+    "silver",
+    "bronze",
+    "total"
   ],
-  "delimiter": "\\t",
-  "encoding": "utf-8",
-  "row_count": "variável (um por país/tipo)",
-  "description": "Tabela de medalhas olímpicas por país e tipo de olimpíada (Verão, Inverno, Geral) com totais por categoria."
+  "granularidade": "País por tipo de olimpíada",
+  "observacoes": "Inclui totais de medalhas por país e tipo de olimpíada. Delimitador: tabulação (\\t), encoding: utf-8."
 }

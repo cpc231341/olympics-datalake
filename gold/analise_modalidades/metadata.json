@@ -1,7 +1,7 @@
 {
-  "nome_dataset": "atletas_por_sexo_1896_2024.csv",
+  "nome_dataset": "modalidades_summary_1896_2024.csv",
   "descricao": "Resumo do número de eventos únicos por modalidade e tipo de edição olímpica (verão ou inverno).",
-  "fonte": "bronze/atletas_por_sexo_1896_2024.csv",
+  "fonte": "bronze/modalidades_1896_2024.csv",
   "url_fonte": "",
   "formato": "csv",
   "periodo": "1896-2024",

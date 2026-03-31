@@ -1,0 +1,92 @@
+sport,tipo,num_events
+Athletics,Summer,129
+Shooting,Summer,91
+Swimming,Summer,90
+Sailing,Summer,48
+Cycling Track,Summer,47
+Wrestling,Summer,47
+Artistic Gymnastics,Summer,40
+Rowing,Summer,35
+Archery,Summer,34
+Judo,Summer,31
+Weightlifting,Summer,31
+Canoe Sprint,Summer,30
+Boxing,Summer,30
+Fencing,Summer,29
+Cross Country Skiing,Winter,23
+Art Competitions,Summer,22
+Diving,Summer,18
+Taekwondo,Summer,16
+Snowboarding,Winter,15
+Speed Skating,Winter,15
+Tennis,Summer,14
+Biathlon,Winter,13
+Freestyle Skiing,Winter,13
+Table Tennis,Summer,12
+Alpine Skiing,Winter,11
+Canoe Slalom,Summer,11
+Badminton,Summer,10
+Cycling Road,Summer,10
+Short Track Speed Skating,Winter,9
+Karate,Summer,8
+Skateboarding,Summer,8
+Equestrian,Summer,6
+Triathlon,Summer,6
+Sport Climbing,Summer,6
+Equestrian Jumping,Summer,6
+Canoe Marathon,Summer,6
+Bobsleigh,Winter,6
+Ski Jumping,Winter,5
+Figure Skating,Winter,5
+Equestrian Dressage,Summer,5
+Artistic Swimming,Summer,5
+Modern Pentathlon,Summer,5
+Golf,Summer,5
+Nordic Combined,Winter,5
+Cycling Mountain Bike,Summer,4
+Volleyball,Summer,4
+Water Polo,Summer,4
+Rhythmic Gymnastics,Summer,4
+Surfing,Summer,4
+Luge,Winter,4
+Marathon Swimming,Summer,4
+Football,Summer,4
+Basketball,Summer,4
+Beach Volleyball,Summer,4
+Cycling BMX Freestyle,Summer,4
+3x3 Basketball,Summer,4
+Rugby Sevens,Summer,4
+Figure Skating,Summer,4
+Cycling BMX Racing,Summer,4
+Equestrian Eventing,Summer,4
+Hockey,Summer,4
+Handball,Summer,4
+Curling,Winter,3
+Motorboating,Summer,3
+Croquet,Summer,3
+Breaking,Summer,2
+Ice Hockey,Winter,2
+Trampolining,Summer,2
+Trampoline Gymnastics,Summer,2
+Skeleton,Winter,2
+Racquets,Summer,2
+Equestrian Jumping,Winter,2
+Equestrian Dressage,Winter,2
+Equestrian Vaulting,Summer,2
+Equestrian Eventing,Winter,2
+Cricket,Summer,1
+Baseball,Summer,1
+Basque pelota,Summer,1
+Alpinism,Winter,1
+Alpinism,Summer,1
+Aeronautics,Summer,1
+Equestrian Driving,Summer,1
+Ice Hockey,Summer,1
+Military Ski Patrol,Winter,1
+Lacrosse,Summer,1
+Jeu De Paume,Summer,1
+Rugby,Summer,1
+Roque,Summer,1
+Polo,Summer,1
+Softball,Summer,1
+Tug-Of-War,Summer,1
